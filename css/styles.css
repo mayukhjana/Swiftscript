@@ -1,5 +1,5 @@
 #title {
-     background-color: aquamarine;
+     background-color: rgb(191, 250, 231);
      color:black;
 }
 .enter-prise {
@@ -22,7 +22,7 @@ h2 {
     padding: 0 0 4.5rem;
 }
 .navbar-brand {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:  'Fasthand', cursive;
     font-size: 2.5rem;
     font-weight: bold;
     color: black;
@@ -32,7 +32,7 @@ h2 {
 }
 .nav-link {
     font-size: 1.2rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:  'Fasthand', cursive;
 }
 .download-button {
     margin: 5% 3% 5% 0;
@@ -59,12 +59,12 @@ p {
     color: darkgrey;
 }
 .icon {
-    color: aquamarine;
+    color: rgb(191, 250, 231);
     margin-bottom: 1rem;
 }
 #testimonials {
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(191, 250, 231);
 
 }
 .testimonials-image {
@@ -73,7 +73,7 @@ p {
     margin: 20px;
 }
 #press {
-    background-color: aquamarine;
+    background-color: rgb(191, 250, 231);
     text-align: center;
     padding-bottom: 3%;
 }
@@ -92,12 +92,13 @@ p {
     padding: 3% 2%;
 }
 #cta {
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(191, 250, 231);
     padding: 7% 15%;
 }
 .cta-heading {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     font-weight: bold;
     line-height: 1.5;
 }
@@ -110,7 +111,7 @@ p {
         text-align: center;
     }
     .image-title {
-        width: 50%;
+        width: 100%;
         position: static;
         transform: rotate(20deg);
     }
