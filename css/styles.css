@@ -112,6 +112,6 @@ p {
     .image-title {
         width: 50%;
         position: static;
-        transform: rotate(0);
+        transform: rotate(20deg);
     }
 }
